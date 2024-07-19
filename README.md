@@ -40,14 +40,7 @@
     ```sh
     ./directory
     ```
-
-## 📂 Project Structure
-
-├── main.cpp # Main application file
-├── contact.h # Header file for contact class
-├── contact.cpp # Implementation file for contact class
-├── README.md # Project README file
-
+    
 ## 📚 Documentation
 
 - [C++ Documentation](https://cplusplus.com/doc/)
