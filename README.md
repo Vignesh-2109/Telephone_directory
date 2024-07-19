@@ -42,7 +42,7 @@
     ```
 
 ## 📂 Project Structure
-.
+
 ├── main.cpp # Main application file
 ├── contact.h # Header file for contact class
 ├── contact.cpp # Implementation file for contact class
